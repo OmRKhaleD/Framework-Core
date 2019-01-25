@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Samuri.Domain", "Samuri.Domain\Samuri.Domain.csproj", "{9B21B1F6-D70A-4CA7-A962-9615BC5CB083}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Samuri.Data", "Samuri.Data\Samuri.Data.csproj", "{ECC7B49B-0DE3-4AEE-A7A1-07D974E9064F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Samuri.UI", "UI\Samuri.UI.csproj", "{4F310882-5BC4-44FC-AF6D-9D54C2150DC6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B21B1F6-D70A-4CA7-A962-9615BC5CB083}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B21B1F6-D70A-4CA7-A962-9615BC5CB083}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B21B1F6-D70A-4CA7-A962-9615BC5CB083}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B21B1F6-D70A-4CA7-A962-9615BC5CB083}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECC7B49B-0DE3-4AEE-A7A1-07D974E9064F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECC7B49B-0DE3-4AEE-A7A1-07D974E9064F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECC7B49B-0DE3-4AEE-A7A1-07D974E9064F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECC7B49B-0DE3-4AEE-A7A1-07D974E9064F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F310882-5BC4-44FC-AF6D-9D54C2150DC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F310882-5BC4-44FC-AF6D-9D54C2150DC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F310882-5BC4-44FC-AF6D-9D54C2150DC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F310882-5BC4-44FC-AF6D-9D54C2150DC6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0569D83C-6843-42A2-9316-39E78AD64424}
+	EndGlobalSection
+EndGlobal
